@@ -1,0 +1,9 @@
+ 01PWskills -> No
+
+ _FLOAT -> Yes
+
+ int -> No
+
+ FLOAT -> Yes
+
+ You will succeed -> No 
